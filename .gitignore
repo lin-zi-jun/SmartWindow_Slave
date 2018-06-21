@@ -1,0 +1,12 @@
+/Obj
+*.dep
+*.bak
+*.Scr
+*.txt
+*.ini
+*.BAT
+*.plg
+*.Administrator
+*.huangxuewen
+*.uvopt
+/List

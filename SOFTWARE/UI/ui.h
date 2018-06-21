@@ -1,0 +1,17 @@
+#ifndef	__UI_H
+#define __UI_H
+///////////////////////////////////////////////////////////////////////////////
+#include "headers.h"
+#include "TEXT.h"
+///////////////////////////////////////////////////////////////////////////////
+void UI_Init(void);
+void UI_SetState(u8 *str);
+void UI_SetInfo(u8 *str);
+void UI_SetRemain(u8 *str);
+void UI_SetUse(u8 *str);
+void UI_SetTime(u8 *str);
+void UI_SetID(u8 *str);
+//void show_image(u16 x,u16 y);
+//void show_image_power(u16 x,u16 y);
+///////////////////////////////////////////////////////////////////////////////
+#endif	/* __UI_H */
